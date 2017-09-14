@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E1EADD87-A503-6AC6-67A7-BBA2B41F554D}|">
+  <MonoDevelop.Ide.ItemProperties.InterfacesAndInheritance PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BaseWall.cs">
+    <Files>
+      <File FileName="Assets/IDamagable.cs" Line="5" Column="30" />
+      <File FileName="Assets/Wall_02.cs" Line="5" Column="32" />
+      <File FileName="Assets/BaseEnemy.cs" Line="19" Column="5" />
+      <File FileName="Assets/Enemy_01.cs" Line="10" Column="3" />
+      <File FileName="Assets/Enemy_02.cs" Line="15" Column="82" />
+      <File FileName="Assets/Enemy_03.cs" Line="13" Column="18" />
+      <File FileName="Assets/BaseWall.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
